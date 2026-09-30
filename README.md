@@ -39,10 +39,3 @@ Este repositorio contiene la resolución completa del Trabajo Práctico enfocado
 * 📓 **Jupyter Notebook** (Entorno de desarrollo y presentación)
 * 📐 **Math Library** (Cálculos de logaritmos e información)
 
----
-
-## 📥 **Cómo ejecutar la Notebook**
-
-1. Clonar este repositorio:
-   ```bash
-      git clone [https://github.com/tu-usuario/tu-repositorio.git](https://github.com/tu-usuario/tu-repositorio.git)
