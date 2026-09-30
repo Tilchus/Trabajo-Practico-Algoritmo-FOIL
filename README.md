@@ -9,7 +9,7 @@ Este repositorio contiene la resolución completa del Trabajo Práctico enfocado
 > 📓 **Nota Importante:**  
 > Toda la resolución teórica, los cálculos manuales de **FOIL Gain** y el desarrollo del código interactivo en Python se encuentran explicados y listos para ejecutar en la notebook del proyecto:  
 > 
-> 📄 **`tp_3_Algoritmos_FOIL.ipynb`** (o tu archivo `.ipynb`)
+> 📄 **`tp_3_Algoritmos_FOIL.ipynb`**
 
 ---
 
@@ -24,10 +24,10 @@ Este repositorio contiene la resolución completa del Trabajo Práctico enfocado
 
 ### 📊 **Ejercicio 2: Cálculo y Evaluación de FOIL Gain**
 * 🧮 **Evaluación de Condición Textual (`nivel_educativo == 'terciario'`):**  
-  * Cálculo automatizado en Python[cite: 6].
+  * Cálculo automatizado en Python
   * Comprobación manual paso a paso con logaritmos en base 2 ($\text{FOIL Gain} = 3.000$)
 * 🧮 **Evaluación de Condición Numérica (`edad <= 23`):**  
-  * Script en Python para filtrado por rangos[cite: 6].
+  * Script en Python para filtrado por rangos
   * Verificación manual de proporciones antes ($P, N$) y después ($p, n$) de aplicar el filtro
 * 💡 **Interpretación de Resultados:** Análisis de la precisión y capacidad discriminativa de cada regla inducida
 
