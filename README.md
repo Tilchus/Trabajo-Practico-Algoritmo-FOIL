@@ -1,6 +1,6 @@
 # 🧠 Trabajo Práctico: Algoritmos de Aprendizaje e Inducción de Reglas (FOIL)
 
-Este repositorio contiene la resolución completa del Trabajo Práctico enfocado en el **Algoritmo FOIL** y la **Inducción de Reglas Lógicas** a partir de datos organizados en tablas[cite: 3, 6].
+Este repositorio contiene la resolución completa del Trabajo Práctico enfocado en el **Algoritmo FOIL** y la **Inducción de Reglas Lógicas** a partir de datos organizados en tablas.
 
 ---
 
